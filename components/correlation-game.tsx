@@ -31,7 +31,7 @@ const statements: Statement[] = [
       "Diese Korrelation existiert bei Kindern, weil beides mit dem Alter wächst. Die Schuhgröße verursacht keine bessere Lesefähigkeit.",
   },
   {
-    text: "Eine Studie zeigt, dass Nachhilfeunterricht die Schüler welche diesen besuchen, ist mehr verwirrt und schlussendlich ihre Noten sogar verschlechtert",
+    text: "Eine Studie zeigt, dass Schüler, die Nachhilfeunterricht besuchen, im Schnitt schlechtere Noten haben",
     type: "correlation",
     explanation:
       "Schüler, die Nachhilfeunterricht besuchen, haben im Durchschnitt schlechtere Noten als Schüler, welche keinen besucht haben. Da liegt aber der Grund nicht am Nachhilfeunterricht sondern daran, dass Schüler welche gute Noten schreiben brauchen sowieso keinen Nachhilfeunterricht, sondern meist nur die Schüler welche sich schwer tun in der Schule besuchen ihn.",
